@@ -1,0 +1,4 @@
+Gaz ID,Feature Name,Class,County,State,Map,Elevation,Latitude,Longitude,Bgn Decision Date,Entry Date,Census Code,Census Classification Code,GSA Code,OPM Code,County FIPS Code,State FIPS Code
+779824,Big Hole River,Stream,Madison County,Montana,Twin Bridges,1405,45.5677037,-112.3391684,1/1/1917,4/4/1980,null,null,null,null,30057,30
+793432,Wisdom,Populated Place,Beaverhead County,Montana,Wisdom,1844,45.6179788,-113.4508925,None,4/4/1980,81250,U5,null,null,30001,30
+2409617,Wisdom Census Designated Place,Census,Beaverhead County,Montana,Wisdom,1848,45.6113952,-113.4469523,None,3/11/2008,81250,U1,null,null,30001,30

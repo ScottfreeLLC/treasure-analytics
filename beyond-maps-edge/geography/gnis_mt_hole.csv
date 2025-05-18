@@ -1,0 +1,51 @@
+Gaz ID,Feature Name,Class,County,State,Map,Elevation,Latitude,Longitude,Bgn Decision Date,Entry Date,Census Code,Census Classification Code,GSA Code,OPM Code,County FIPS Code,State FIPS Code
+768434,Badger Hole Coulee,Valley,Roosevelt County,Montana,Flynn Creek North,696,48.2266309,-105.7623205,None,4/4/1980,null,null,null,null,30085,30
+768598,Bear Hole,Basin,Big Horn County,Montana,Bear Hole,2258,45.0752364,-107.9887195,None,4/4/1980,null,null,null,null,30003,30
+1940570,Big Hole Basin Division,Civil,Beaverhead County,Montana,Wisdom,1879,45.5682848,-113.3972112,None,10/12/2001,90273,Z5,null,null,30001,30
+779817,Big Hole Creek,Stream,Sanders County,Montana,Calico Creek,817,47.6638264,-115.1126456,None,4/4/1980,null,null,null,null,30089,30
+779819,Big Hole Divide,Ridge,Beaverhead County,Montana,Peterson Lake,2987,45.1530952,-113.3231085,3/12/1988,1/1/2000,null,null,null,null,30001,30
+377554,Big Hole Pass,Gap,Lemhi County,Idaho,Big Hole Pass,2150,45.5493648,-113.8211835,None,6/21/1979,null,null,null,null,16059,16
+779821,Big Hole Pass,Gap,Beaverhead County,Montana,Tash Peak,2258,45.3304796,-113.2411593,None,4/4/1980,null,null,null,null,30001,30
+779823,Big Hole Peak,Summit,Sanders County,Montana,Big Hole Peak,2119,47.6061066,-115.0758194,1/1/1930,4/4/1980,null,null,null,null,30089,30
+779824,Big Hole River,Stream,Madison County,Montana,Twin Bridges,1405,45.5677037,-112.3391684,1/1/1917,4/4/1980,null,null,null,null,30057,30
+789825,Dark Hole,Channel,Beaverhead County,Montana,Storm Peak,2031,45.5288156,-112.7816945,None,1/1/2000,null,null,null,null,30001,30
+770624,Devils Hole,Basin,Yellowstone County,Montana,Comanche,1238,45.9010608,-108.8598724,None,4/4/1980,null,null,null,null,30111,30
+782333,Devils Hole,Bend,Beaverhead County,Montana,Cattle Gulch,2088,45.6793704,-112.8425316,None,4/4/1980,null,null,null,null,30001,30
+770625,Devils Hole Creek,Stream,Custer County,Montana,Pennock Creek,817,46.211946,-105.1255303,None,4/4/1980,null,null,null,null,30017,30
+805538,Devils Hole Lake,Lake,Musselshell County,Montana,Devils Hole Lake,1231,46.6329855,-108.9876581,None,1/1/1995,null,null,null,null,30065,30
+770749,Dripping Hole Spring,Spring,Glacier County,Montana,Dead Indian Spring,1158,48.7955194,-112.4099425,None,4/4/1980,null,null,null,null,30035,30
+782857,East Fork Hopley Creek,Stream,Wheatland County,Montana,Hopley Creek North,1493,46.589676,-109.9849102,1/1/1965,4/4/1980,null,null,null,null,30107,30
+771368,Fire Hole Canyon,Valley,Sanders County,Montana,Dixon,785,47.3042257,-114.2725144,None,4/4/1980,null,null,null,null,30089,30
+772330,Hell Hole Coulee,Valley,Valley County,Montana,Wolfe Coulee,686,47.7321825,-107.3578017,None,4/4/1980,null,null,null,null,30105,30
+784749,Hells Hole,Bend,Madison County,Montana,Manhead Mountain,2554,45.6738151,-112.0663789,None,4/4/1980,null,null,null,null,30057,30
+772462,Hole in the Wall,Basin,Granite County,Montana,Lick Creek,2362,45.9654778,-113.6400711,None,4/4/1980,null,null,null,null,30039,30
+1679015,Hole in the Wall,Arch,Chouteau County,Montana,Eagle Buttes,850,47.8152968,-110.0435387,None,3/27/1996,null,null,null,null,30015,30
+767967,Hole in the Wall Lake,Lake,Flathead County,Montana,Radnor,1022,48.6072701,-114.6804656,1/1/1969,4/1/1991,null,null,null,null,30029,30
+772464,Hole-In-The Rock,Summit,Park County,Montana,Hunters Hot Springs,1661,45.8471815,-110.3111688,None,4/4/1980,null,null,null,null,30067,30
+784932,Hole-In-The-Rock Creek,Stream,Park County,Montana,Hunters Hot Springs,1505,45.8304915,-110.2893634,None,4/4/1980,null,null,null,null,30067,30
+772465,Hole-In-The-Wall Spring,Spring,Glacier County,Montana,Bushnell Hill,1390,48.9420697,-112.9429392,None,4/4/1980,null,null,null,null,30035,30
+772466,Hole-in-the Wall,Basin,Flathead County,Montana,Mount Carter,1917,48.9646989,-114.0673523,None,4/4/1980,null,null,null,null,30029,30
+772467,Hole-in-the Wall Falls,Falls,Flathead County,Montana,Mount Carter,1907,48.961921,-114.0681856,1/1/1929,4/4/1980,null,null,null,null,30029,30
+772468,Hole-in-the-Rock,Arch,Garfield County,Montana,Hole-in-the-Rock,930,46.8655503,-107.1781294,None,4/4/1980,null,null,null,null,30033,30
+772469,Hole-in-the-Wall,Basin,Fergus County,Montana,P N Ranch,781,47.6255365,-109.6376878,None,4/4/1980,null,null,null,null,30027,30
+772470,Hole-in-the-Wall,Basin,Chouteau County,Montana,Eagle Buttes,838,47.8147002,-110.0410319,None,4/4/1980,null,null,null,null,30015,30
+784934,Hole-in-the-Wall,Basin,Sanders County,Montana,Noxon,1185,47.9060397,-115.8243386,None,4/4/1980,null,null,null,null,30089,30
+784935,Hole-in-the-Wall Creek,Stream,Rosebud County,Montana,Green Creek,964,45.4372188,-106.3300223,None,4/4/1980,null,null,null,null,30087,30
+785006,Hopley Creek,Stream,Wheatland County,Montana,Hopley Creek South,1294,46.4360665,-109.9135178,1/1/1965,4/4/1980,null,null,null,null,30107,30
+772721,Irishmans Hole,Basin,Beaverhead County,Montana,Ashbough Canyon,1974,45.0454745,-112.6130704,None,4/4/1980,null,null,null,null,30001,30
+785424,Jackson Hot Springs,Spring,Beaverhead County,Montana,Jackson,1977,45.3674237,-113.4042213,None,4/4/1980,null,null,null,null,30001,30
+786019,Ledford Creek,Stream,Madison County,Montana,Home Park Ranch,1739,45.0865874,-112.0841456,None,4/4/1980,null,null,null,null,30057,30
+786760,Maddox Hole,Bend,Beaverhead County,Montana,Melrose,1581,45.6293707,-112.6919687,None,4/4/1980,null,null,null,null,30001,30
+784937,Mount Hole-in-the-Wall,Summit,Stillwater County,Montana,Alpine,3492,45.1814335,-109.721427,None,4/4/1980,null,null,null,null,30095,30
+787830,Muddy Hole Basin,Basin,Beaverhead County,Montana,Graphite Mountain,2517,44.7088074,-112.9419629,None,4/4/1980,null,null,null,null,30001,30
+788097,North Fork Big Hole River,Stream,Beaverhead County,Montana,Mud Lake,1812,45.7271456,-113.4083915,None,4/4/1980,null,null,null,null,30001,30
+805453,Pot Hole Coulee,Valley,Valley County,Montana,Hardpan Coulee,714,48.1764217,-107.063617,None,1/1/1995,null,null,null,null,30105,30
+799519,Pot Hole Reservoir,Reservoir,Carter County,Montana,Timber Hill,1101,45.6237436,-104.1387899,None,5/1/1994,null,null,null,null,30011,30
+789790,Ross Hole,Basin,Ravalli County,Montana,Sula,1367,45.8463093,-113.957857,None,4/4/1980,null,null,null,null,30081,30
+790319,Sheep Creek,Stream,Beaverhead County,Montana,Elk Creek,1940,45.656032,-113.7903507,None,4/4/1980,null,null,null,null,30001,30
+790742,Smoke-in-Hole Creek,Stream,Cascade County,Montana,Barker,1625,47.0519078,-110.6785497,None,4/4/1980,null,null,null,null,30013,30
+792037,The Hole,Basin,Park County,Montana,Mount Wallace,2814,45.1663266,-110.4268661,None,4/4/1980,null,null,null,null,30067,30
+777532,The Pot Hole,Reservoir,Toole County,Montana,Fey Lakes,1141,48.9517153,-111.4332521,None,4/4/1980,null,null,null,null,30101,30
+805564,Thompsons Water Hole,Spring,Musselshell County,Montana,Harper Coulee,1090,46.3360392,-108.560538,None,1/1/1995,null,null,null,null,30065,30
+778135,Water Holes Creek,Stream,Big Horn County,Montana,Black Spring,1008,45.6255436,-106.837263,None,4/4/1980,null,null,null,null,30003,30
+792876,Waterhole Creek,Stream,Fallon County,Montana,Marmarth,843,46.2691721,-103.9863196,None,4/4/1980,null,null,null,null,30025,30
